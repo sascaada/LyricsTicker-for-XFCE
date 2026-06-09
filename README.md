@@ -12,7 +12,12 @@ It uses:
 
 ## Screenshot
 
-Comin soon.
+<img width="1825" height="1042" alt="image" src="https://github.com/user-attachments/assets/b02f1b99-5800-462f-8053-74d90c3d9662" />
+<img width="2070" height="1020" alt="image" src="https://github.com/user-attachments/assets/4dbbd236-7604-4392-906d-e9c0b52ed7f8" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/e72ece6c-2a6c-4647-9843-2ef282dc2e45" />
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/3798f282-0378-494c-9bd8-6440a25cdc35" />
+
+
 
 ## Requirements
 
